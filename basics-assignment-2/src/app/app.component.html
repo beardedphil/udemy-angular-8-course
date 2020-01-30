@@ -8,9 +8,10 @@
         <li>Upon clicking the button, the username should be reset to an empty string</li>
       </ol>
       <hr>
-      <label>Username</label>
+      <label for="username">Username</label>
       <input
         type="text"
+        id="username"
         class="form-control"
         [(ngModel)]="username">
       <p>{{ username }}</p>
