@@ -1,0 +1,8 @@
+p {
+  background-color: mediumseagreen;
+  border: 2px green solid;
+  border-radius: 10px;
+  padding: 8px;
+  color: white;
+  font-weight: bold;
+}
