@@ -1,0 +1,7 @@
+p {
+  border: 1px darkred solid;
+  border-radius: 3px;
+  background-color: indianred;
+  color: white;
+  padding: 5px;
+}
